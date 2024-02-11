@@ -2,6 +2,7 @@
     max-width: 124rem;
     padding: 4rem 1rem;
     margin: 0 auto;
+    z-index: 1;
   }
   
   /* .swiper_container {
@@ -17,9 +18,9 @@
   }
   
   @media (max-width: 500px) {
-    .swiper_container {
+    /* .swiper_container {
       height: 47rem;
-    }
+    } */
     .swiper-slide {
       width: 320px !important;
       height: 500px !important;

@@ -41,6 +41,10 @@ const Home = () => {
           depth: 100,
           modifier: 2.5,
         }}
+        autoplay={{
+            delay: 2500,
+            disableOnInteraction: false,
+          }}
         pagination={{ el: '.swiper-pagination', clickable: true }}
         navigation={{
           nextEl: '.swiper-button-next',
