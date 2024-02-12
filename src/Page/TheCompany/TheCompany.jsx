@@ -2,7 +2,7 @@
 const TheCompany = () => {
     return (
         <div>
-            The Company
+            TheCompany
         </div>
     );
 };
